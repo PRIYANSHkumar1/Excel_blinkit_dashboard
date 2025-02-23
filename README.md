@@ -1,87 +1,6 @@
 
 ![image](https://github.com/user-attachments/assets/95ae5b0d-cdbe-4506-910b-faf26d2d53f5)
 
-# Mobile Sales Dashboard
-
-This project involves the creation of an interactive **Mobile Sales Dashboard** using **Power BI**. The dashboard provides a comprehensive analysis of mobile sales data, including key metrics, trends, and insights to help stakeholders make data-driven decisions.
-
-## Features
-
-### Key Metrics
-- **Total Sales**: ₹68M
-- **Total Quantity Sold**: 2K
-- **Transactions**: 331
-- **Average Price**: ₹41.32K
-
-### Visualizations
-1. **Total Sales by City**:
-   - A map visualization showing sales distribution across cities like Delhi, Mumbai, Chennai, and more.
-2. **Total Quantity by Month**:
-   - A line chart displaying monthly trends in sales quantity, with peaks in February and April.
-3. **Ratings by Rating Status**:
-   - A bar chart showing customer ratings distribution (Good, Poor, Average).
-4. **Transactions by Payment Method**:
-   - A pie chart analyzing payment methods (e.g., UPI, Credit Card, Debit Card, Cash).
-5. **Total Sales by Mobile Model**:
-   - A bar chart highlighting top-performing models like iPhone SE, OnePlus Nord, and Galaxy S21.
-6. **Total Sales by Day Name**:
-   - A line chart showing sales trends across days of the week.
-
-### Dynamic Filters
-- Filters for **Mobile Model**, **Payment Method**, **Brand**, and **Month** to enable detailed and customized analysis.
-
-## Tools and Technologies
-- **Power BI**: Used for creating the dashboard and visualizations.
-- **Data Source**: Sales data provided in a structured format (e.g., Excel or database).
-- **Data Visualization**: Leveraged Power BI's features like slicers, maps, and charts for interactive insights.
-
-## Insights
-1. **City-Wise Sales**:
-   - Top-performing cities include Delhi, Mumbai, and Chennai.
-   - Sales distribution is visualized on a map for better geographic understanding.
-2. **Monthly Trends**:
-   - Sales quantities peak in February and April, with a slight dip in June and September.
-3. **Customer Ratings**:
-   - Majority of ratings are "Good," with smaller percentages of "Poor" and "Average" ratings.
-4. **Payment Methods**:
-   - Credit Card (26.89%) and Cash (25.98%) are the most popular payment methods, followed by UPI (22.96%).
-5. **Top Mobile Models**:
-   - iPhone SE, OnePlus Nord, and Galaxy S21 are the top-selling models.
-6. **Day-Wise Sales**:
-   - Sales are highest on Tuesdays and gradually decline towards the weekend.
-
-## How to Use
-1. Open the Power BI file (`.pbix`) in Power BI Desktop.
-2. Explore the dashboard using the interactive filters for:
-   - **Mobile Model**
-   - **Payment Method**
-   - **Brand**
-   - **Month**
-3. Analyze the visualizations to gain insights into sales performance.
-
-## Future Improvements
-- Add more granular data, such as customer demographics or regional trends.
-- Integrate real-time data updates for live monitoring.
-- Include predictive analytics to forecast future sales trends.
-
-## Screenshots
-![Mobile Sales Dashboard](power_bi.png)
-
-## License
-This project is licensed under the MIT License. Feel free to use and modify it as needed.
-
----
-
-Feel free to reach out for any questions or feedback!
-This README.md file provides a clear and professional overview of your Power BI project, including its features, insights, and usage instructions. Let me know if you need further adjustments!
-
-
-please provide readme for this project made uing escel
-
-RouteLLM
-Routing to GPT-4o
-markdown
-Copy Code
 # Sales Dashboard Analysis
 
 This project involves the creation of a **Sales Dashboard** using **Excel** to analyze and visualize sales data. The dashboard provides insights into key metrics such as total sales, average sales, and item distribution, along with detailed breakdowns by outlet size, type, and product categories.
@@ -147,3 +66,4 @@ This project involves the creation of a **Sales Dashboard** using **Excel** to a
    - **Establishment Year**
    - **Fat Content**
 3. Analyze the visualizations to gain insights into sales performance.
+
